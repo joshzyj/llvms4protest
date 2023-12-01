@@ -14,7 +14,7 @@ When you use one or two of these models, you agree to cite the following papers:
 @article{zhang2023llvms4protest,
   title={LLVMs4Protest: Harnessing the Power of Large Language and Vision Models for Deciphering Protests in the News},
   author={Zhang, Yongjun},
-  journal={arXiv preprint arXiv:XXX.XXX},
+  journal={arXiv preprint arXiv:2311.18241},
   year={2023}
 }
 
