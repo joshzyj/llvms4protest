@@ -23,3 +23,5 @@ You also agree that these models are solely used for academic purposes.
 
 You can access all models via this dropbox link:
 https://www.dropbox.com/scl/fo/99hkkgfmqan75xmwkh3z2/h?rlkey=upisotxf1mn61y8qrswtjga19&dl=0
+
+You need to email yongjun.zhang@stonybrook for password.
